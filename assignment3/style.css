@@ -82,7 +82,9 @@ a{
     justify-content: space-between;
     align-items: center;
 }
-
+hr{
+    width: 100%;
+}
 @media (max-width: 768px){
     .items{
         flex-direction: column;
