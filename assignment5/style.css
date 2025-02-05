@@ -224,5 +224,8 @@ h2{
         gap: 5px;
         align-items: center;
     }
+    .card img{
+        width: 45%;
+    }
 
 }
